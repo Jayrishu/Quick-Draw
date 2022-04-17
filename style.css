@@ -1,0 +1,27 @@
+body{
+    background-color: lime;
+}
+#timer{
+    font-size: 40px;
+    float: right;
+    margin-right: 60px;
+    background-color: lightsalmon;
+}
+#score{
+    font-size: 40px;
+    float: left;
+    background-color: yellow;
+    margin-left: 30px;
+}
+#usersketch,#confidence,#computersketch{
+    font-size: 40px;
+    color: indigo;
+}
+h1{
+    font-size: 50px;
+    background-color: beige;
+}
+#show_sketch{
+    float: right;
+    font-size: 30px;
+}
